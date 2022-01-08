@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-flávia-ferreira/)](http://linkedin.com/in/ana-flávia-ferreira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferreiraanaflaviaalves@gmail.com)](mailto:ferreiraanaflaviaalves@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaFerreira&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaFerreira&show_icons=true&layout=compact&theme=dark)
 
 <!--
 **AnaFlaviaFerreira/AnaFlaviaFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

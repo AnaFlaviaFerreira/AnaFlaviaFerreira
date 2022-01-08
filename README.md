@@ -1,4 +1,4 @@
-## Olá 👋, sou a Ana Flávia Alves Ferreira
+## Olá 👋, sou a Ana Flávia Ferreira
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-flávia-ferreira/)](http://linkedin.com/in/ana-flávia-ferreira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferreiraanaflaviaalves@gmail.com)](mailto:ferreiraanaflaviaalves@gmail.com)
 

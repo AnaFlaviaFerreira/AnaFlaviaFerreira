@@ -2,8 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-flávia-ferreira/)](http://linkedin.com/in/ana-flávia-ferreira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferreiraanaflaviaalves@gmail.com)](mailto:ferreiraanaflaviaalves@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaFerreira&show_icons=true&layout=compact&theme=dark)
-
 <!--
 **AnaFlaviaFerreira/AnaFlaviaFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,5 +31,7 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFlaviaFerreira&show_icons=true&layout=compact&theme=dark)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
